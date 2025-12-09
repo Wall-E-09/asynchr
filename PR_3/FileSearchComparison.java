@@ -1,4 +1,4 @@
-package pr_3;
+package PR_3;
 import java.io.File;
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package pr_3;
+package PR_3;
 import java.util.Random;
 import java.util.Scanner;
 import java.util.concurrent.*;
